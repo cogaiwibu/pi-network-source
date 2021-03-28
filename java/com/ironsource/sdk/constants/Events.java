@@ -1,0 +1,45 @@
+package com.ironsource.sdk.constants;
+
+public class Events {
+    public static final String APPLICATION_KEY = "applicationkey";
+    public static final String APPLICATION_USER_ID = "applicationuserid";
+    public static final String APP_JSON = "application/json";
+    public static final String BUNDLE_ID = "bundleid";
+    public static final String CALL_FAILED_REASON = "callfailreason";
+    public static final String CHARSET = "charset";
+    public static final String CHARSET_FORMAT = "utf-8";
+    public static final String CONNECTION_TYPE = "connectiontype";
+    public static final String CONTENT_TYPE = "Content-Type";
+    public static final String DATA = "data";
+    public static final boolean DEFAULT_ENABLED = true;
+    public static final String DEFAULT_ENDPOINT = "https://logs.supersonic.com/logs";
+    public static final String DEMAND_SOURCE_NAME = "demandsourcename";
+    public static final String DEVICE_API_LEVEL = "deviceapilevel";
+    public static final String DEVICE_MODEL = "devicemodel";
+    public static final String DEVICE_OEM = "deviceoem";
+    public static final String DEVICE_OS = "deviceos";
+    public static final String DEVICE_OS_VERSION = "deviceosversion";
+    public static final String ENABLED = "enabled";
+    public static final String END_POINT = "endpoint";
+    public static final String ENV = "env";
+    public static final char EQUAL = '=';
+    public static final String EVENT_CONFIG = "events";
+    public static final String EVENT_ID = "eventid";
+    public static final String EVENT_PREFIX = "n_";
+    public static final String GENERAL_MSG = "generalmessage";
+    public static final Object INTIALIZED = "initialized instance";
+    public static final String IN_APP_BIDDING = "inAppBidding";
+    public static final String IS_BIDDING_INSTANCE = "isbiddinginstance";
+    public static final String IS_REWARDED = "rewarded";
+    public static final String LOG_EVENT_FAILED = "logEvent failed eventsTracker doesn't exist";
+    public static final String ORIGIN = "origin";
+    public static final String ORIGIN_NATIVE = "n";
+    public static final String PRODUCTION = "prod";
+    public static final String PRODUCT_TYPE = "producttype";
+    public static final String SDK_VERSION = "sdkversion";
+    public static final String SESSION_ID = "sessionid";
+    public static final String TABLE = "table";
+    public static final String TABLE_VALUE = "supersonic.adunitanalytics.ad_unit_events";
+    public static final String TAG = "sdk5Events";
+    public static final Object UNINTIALIZED = "uninitialized instance";
+}
